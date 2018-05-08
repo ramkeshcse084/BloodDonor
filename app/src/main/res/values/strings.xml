@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">Blood Donor</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="age_array">
+        <item>Select your Age</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>45</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="bloodgroup_array">
+        <item>Select your blood group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>0+</item>
+        <item>0-</item>
+        <item>I do not know</item>
+    </string-array>
+    <string-array name="District_array">
+        <item>	Select District	</item>
+        <item>	Agra	</item>
+        <item>	Aligarh	</item>
+        <item>	Allahabad	</item>
+        <item>	Ambedkar Nagar	</item>
+        <item>	Amethi	</item>
+        <item>	Amroha	</item>
+        <item>	Auraiya	</item>
+        <item>	Azamgarh	</item>
+        <item>	Baghpat	</item>
+        <item>	Bahraich	</item>
+        <item>	Ballia	</item>
+        <item>	Balrampur	</item>
+        <item>	Banda	</item>
+        <item>	Barabanki	</item>
+        <item>	Bareilly	</item>
+        <item>	Basti	</item>
+        <item>	Bijnor	</item>
+        <item>	Budaun	</item>
+        <item>	Bulandshahr	</item>
+        <item>	Chandauli	</item>
+        <item>	Chitrakoot	</item>
+        <item>	Deoria	</item>
+        <item>	Etah	</item>
+        <item>	Etawah	</item>
+        <item>	Faizabad	</item>
+        <item>	Farrukhabad	</item>
+        <item>	Fatehpur	</item>
+        <item>	Firozabad	</item>
+        <item>	Gautam Buddha Nagar	</item>
+        <item>	Ghaziabad	</item>
+        <item>	Ghazipur	</item>
+        <item>	Gonda	</item>
+        <item>	Gorakhpur	</item>
+        <item>	Hamirpur	</item>
+        <item>	Hardoi	</item>
+        <item>	Hathras (Mahamaya Nagar)	</item>
+        <item>	Jalaun	</item>
+        <item>	Jaunpur	</item>
+        <item>	Jhansi	</item>
+        <item>	Jyotiba Phule Nagar	</item>
+        <item>	Kannauj	</item>
+        <item>	Kanpur Dehat (Ramabai Nagar)	</item>
+        <item>	Kanpur Nagar	</item>
+        <item>	Kanshiram Nagar	</item>
+        <item>	Kaushambi	</item>
+        <item>	Kheri	</item>
+        <item>	Kushinagar	</item>
+        <item>	Lalitpur	</item>
+        <item>	Lucknow	</item>
+        <item>	Maharajganj	</item>
+        <item>	Mahoba	</item>
+        <item>	Mainpuri	</item>
+        <item>	Mathura	</item>
+        <item>	Mau	</item>
+        <item>	Meerut	</item>
+        <item>	Mirzapur	</item>
+        <item>	Moradabad	</item>
+        <item>	Muzaffarnagar	</item>
+        <item>	Hapur	</item>
+        <item>	Pilibhit	</item>
+        <item>	Pratapgarh	</item>
+        <item>	Raebareli	</item>
+        <item>	Rampur	</item>
+        <item>	Saharanpur	</item>
+        <item>	Sant Kabir Nagar	</item>
+        <item>	Sant Ravidas Nagar	</item>
+        <item>	Shahjahanpur	</item>
+        <item>	Shamli	</item>
+        <item>	Shravasti	</item>
+        <item>	Siddharthnagar	</item>
+        <item>	Sitapur	</item>
+        <item>	Sonbhadra	</item>
+        <item>	Sultanpur	</item>
+        <item>	Unnao	</item>
+        <item>	Varanasi	</item>
+    </string-array>
+
+</resources>
+

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "528279820752",
+    "firebase_url": "https://blooddonor-480da.firebaseio.com",
+    "project_id": "blooddonor-480da",
+    "storage_bucket": "blooddonor-480da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528279820752:android:d3552d33ae892374",
+        "android_client_info": {
+          "package_name": "com.nestedmango.blooddonor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528279820752-orlnp421qtoblhaed3m3ggs0fpo7gls8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nestedmango.blooddonor",
+            "certificate_hash": "f8d51ea63c4803ace0f151520b87aaf006b3c5d9"
+          }
+        },
+        {
+          "client_id": "528279820752-8la4hh2hnsm8qea4egne4bqdd6pcauip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABlUCmqb5Upz0rNWuWnyZDheWCog02iHc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528279820752-8la4hh2hnsm8qea4egne4bqdd6pcauip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
